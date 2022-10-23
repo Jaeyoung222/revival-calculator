@@ -13,8 +13,12 @@
 - Don't check boxes what I have to learn, Do check project list what I have to build.
 - Set the due date.
 
-덕분에 나의 방향이 크게 잘못되어 있었다는 것을 깨닫고 다시 태어나려 한다. (<del>고마워요 알고리즘</del>)  
+덕분에 나의 방향이 크게 잘못되어 있었다는 것을 깨닫고 다시 태어나려 한다. (고마워요 알고리즘!)  
 그 첫 걸음으로 만드는, 다시 태어남을 기념하고 자축하는 계산기 프로젝트이다.
+
+## Info
+간단한 계산기를 구현한다.
+다만, 다시 태어남을 기념하며 "Rev." 버튼을 누르면 새로운 계산기가 태어나도록 했다.
 
 ## Log
 Date : 220913~220916
